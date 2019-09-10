@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# reads an N number of inputs and prints the average to 3 d.p
+
 read N
 sum=0
 
