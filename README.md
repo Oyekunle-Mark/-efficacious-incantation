@@ -8,4 +8,4 @@ This will mostly contain HackerRank's Bash Script challenges.
 
 ## Author
 
-Oyekunle Oloyede 😄
+💻 Oyekunle Oloyede 😄
